@@ -10,10 +10,6 @@ using System.Web;
 using System.Collections.Generic;
 /**
 * by 七龙
-* 这个东西非常坑爹，对中国人用非常不友好，我的坑
-* 首先必须把系统换成英文的,然后就是需要用Viewdll.exe查看是否有托管导出的函数
-* 最后需要BuildTools_Full.exe编译错误依赖
-*
 */
 namespace ArmaAsyncExt
 {
